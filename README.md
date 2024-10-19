@@ -5,7 +5,7 @@
 
 # Still learning
 
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=TypeScript&logoColor=white) ![](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white) ![](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=C%23&logoColor=white) ![](https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=TypeScript&logoColor=white) ![](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white) ![](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=C%23&logoColor=white)
 
 ![](https://img.shields.io/badge/Unity-808080?style=flat&logo=Unity&logoColor=white) ![](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white)
 
