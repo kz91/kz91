@@ -1,4 +1,3 @@
-[![kz's GitHub Banner](./assets/GitHubBanner.svg)]()
 
 # Skills
 
